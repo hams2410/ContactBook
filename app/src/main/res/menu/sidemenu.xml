@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/idAll"
+        android:title="@string/all"/>
+    <item android:id="@+id/idFriends"
+        android:title="@string/friends"/>
+    <item android:id="@+id/idPeople"
+        android:title="@string/people"/>
+    <item android:id="@+id/idAnimals"
+        android:title="@string/animals"/>
+    <item android:id="@+id/idAbout"
+        android:title="@string/about"/>
+    <item android:id="@+id/idExit"
+        android:title="@string/exit"/>
+</menu>

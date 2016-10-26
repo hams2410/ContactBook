@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="idDialogContactInfo" type="id" />
+
+    <integer name="idAllGroup" >0</integer>
+    <integer name="idFriendsGroup">1</integer>
+    <integer name="idPeopleGroup" >2</integer>
+    <integer name="idAnimalsGroup" >3</integer>
+
+
+
+</resources>

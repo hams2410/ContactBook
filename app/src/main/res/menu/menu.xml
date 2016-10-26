@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/idCreateContactItem" android:title="@string/createContact"/>
+    <item android:id="@+id/idCreateContactGroupItem" android:title="@string/createContactGroup"/>
+</menu>

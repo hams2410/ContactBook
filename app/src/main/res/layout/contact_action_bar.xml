@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@android:drawable/ic_menu_more"
+        android:id="@+id/idMenuButton"/>
+    <EditText
+        android:layout_width="0dp"
+        android:hint="@string/hintEditText"
+        android:layout_height="wrap_content"
+        android:id="@+id/idEditTextSearch"
+        android:layout_weight="2"
+        android:inputType="textFilter"/>
+    <!--<ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@android:drawable/ic_menu_search"
+        android:id="@+id/idSearchButton"/>-->
+
+</LinearLayout>

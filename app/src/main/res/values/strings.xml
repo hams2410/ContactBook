@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Contact Book</string>
+    <string name="toolbarTitle">Toolbar</string>
+    <string name="all">Все</string>
+    <string name="friends">Друзья</string>
+    <string name="people">Люди</string>
+    <string name="animals">Животные</string>
+    <string name="about">О программе</string>
+    <string name="exit">Выход</string>
+    <string name="hintEditText">Введите имя контакта</string>
+    <!--Contact name-->
+    <string name="conMikky">Микки Маус</string>
+
+    <!--menu-->
+    <string name="createContactGroup">Создать группу контактов</string>
+    <string name="createContact">Создать контакт</string>
+
+    <!--Dialog-->
+    <string name="addName">Имя контакта :</string>
+    <string name="addNumber">Телефон :</string>
+    <string name="addAddress">Адрес :</string>
+
+    <string-array name="slide_menu_list">
+        <item id="@+id/all">Все</item>
+        <item id="@+id/friends">Друзья</item>
+        <item id="@+id/people">Люди</item>
+        <item id="@+id/animals">Животные</item>
+        <item>Выход</item>
+    </string-array>
+    <string-array name="contact_List">
+        <item>Кирилл</item>
+        <item>Маша</item>
+        <item>Валера</item>
+        <item>Никита</item>
+        <item>Винни Пух</item>
+        <item>Пятачок</item>
+        <item>Том</item>
+        <item>Джери</item>
+        <item>Микки Маус</item>
+        <item>Багс Бани</item>
+        <item>Пинокио</item>
+        <item>Скрутч</item>
+        <item>Батя</item>
+
+    </string-array>
+
+    <string name="name1">Кирилл</string>
+    <string name="name2">Маша</string>
+    <string name="name3">Валера</string>
+    <string name="name4">Никита</string>
+    <string name="name5">Винни Пух</string>
+    <string name="name6">Багс Банни</string>
+    <string name="name7">Пятачок</string>
+    <string name="name8">Король Лев</string>
+    <string name="name9">Том</string>
+    <string name="name10">Джери</string>
+    <string name="name11">Пинокио</string>
+    <string name="name12">Батя</string>
+    <string name="name13">Ксюха</string>
+
+    <string name="street1">улица 1</string>
+    <string name="street2">улица 2</string>
+    <string name="street3">улица 3</string>
+    <string name="street4">улица 4</string>
+    <string name="street5">улица 5</string>
+    <string name="street6">улица 6</string>
+    <string name="street7">улица 7</string>
+    <string name="street8">улица 8</string>
+    <string name="street9">улица 9</string>
+    <string name="street10">улица 10</string>
+    <string name="street11">улица 11</string>
+    <string name="street12">улица 12</string>
+    <string name="street13">улица 13</string>
+
+    <string name="tel1">+79564567889</string>
+    <string name="tel2">+79894565889</string>
+    <string name="tel3">+79224567889</string>
+    <string name="tel4">+79294567889</string>
+    <string name="tel5">+79264567889</string>
+    <string name="tel6">+79244567889</string>
+    <string name="tel7">+79226567889</string>
+    <string name="tel8">+78224547889</string>
+    <string name="tel9">+79224567489</string>
+    <string name="tel10">+79224567889</string>
+    <string name="tel11">+79224567289</string>
+    <string name="tel12">+79224514889</string>
+    <string name="tel13">+79224598889</string>
+    <string name="contactInfo">Информация о контакте</string>
+
+</resources>

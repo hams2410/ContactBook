@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/idContactItem"
+    android:gravity="center_vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:drawableLeft="@drawable/ic_action_name"
+    android:paddingBottom="20dp"
+    android:paddingLeft="5dp"
+    android:paddingTop="20dp"
+    android:textSize="25sp"
+    android:drawablePadding="10dp"
+    android:textColor="#000000"/>
